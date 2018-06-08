@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "ledge"
-version = "1.27.3-1"
+version = "1.28-1"
 -- LuaDist source
 source = {
-  tag = "1.27.3-1",
+  tag = "1.28-1",
   url = "git://github.com/LuaDist-testing/ledge.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/pintsized/ledge",
---    tag = "v1.27.3"
+--    tag = "v1.28"
 -- }
 description = {
    summary = "An ESI capable HTTP cache module for OpenResty",
